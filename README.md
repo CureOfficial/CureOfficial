@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/86529363/124513938-ccdff780-ddd3-11eb-97da-0a6374ecb94b.png)
+![image](https://user-images.githubusercontent.com/86529363/124513990-eaad5c80-ddd3-11eb-986c-49d9aef5ad67.png)
+
 
 
 **Currently working on a multi-purpose Discord bot.
